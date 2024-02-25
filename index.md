@@ -36,5 +36,3 @@ The medical dashboard:<br>
 
 
 
-
-
