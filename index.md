@@ -10,10 +10,16 @@ icated upon the respective device data.
 For design, we used third party library called "AntDesign" as the primary tool to integrate visualizations onto our website while using Pandas,Numpy,MongoDB to create a data pipeline that is designed to pull, read, clean, standardize, and add features to the data given to our team from the Vital APIs. To host our work, we used React.js hosted on Github Pages to create a website that would allow the user to interact with the visualizations.<br>
 <br>
 
-Below is the architecture of our website<br>
+Below is the architecture of our website:<br>
 <img width="789" alt="image" src="https://github.com/PatrickTangwen/med-dash-product/assets/102566928/394f1498-055c-4c66-8aea-1cca5ecff9f2">
+
+The user login system:
+<img width="419" alt="image" src="https://github.com/PatrickTangwen/med-dash-product/assets/102566928/cd5976b2-4b41-47a9-86a4-af74d70a5208">
+
 
 The medical dashboard:<br>
 <img width="1142" alt="image" src="https://github.com/PatrickTangwen/med-dash-product/assets/102566928/c9f1db4a-f912-43d5-8b01-09a370802442">
+
+## Results
 
 
