@@ -13,13 +13,28 @@ For design, we used third party library called "AntDesign" as the primary tool t
 Below is the architecture of our website:<br>
 <img width="789" alt="image" src="https://github.com/PatrickTangwen/med-dash-product/assets/102566928/394f1498-055c-4c66-8aea-1cca5ecff9f2">
 
-The user login system:
+The user login system:<br>
 <img width="419" alt="image" src="https://github.com/PatrickTangwen/med-dash-product/assets/102566928/cd5976b2-4b41-47a9-86a4-af74d70a5208">
 
 
 The medical dashboard:<br>
 <img width="1142" alt="image" src="https://github.com/PatrickTangwen/med-dash-product/assets/102566928/c9f1db4a-f912-43d5-8b01-09a370802442">
 
+
 ## Results
+- At present, our system employs dummy accounts for user login purposes. Looking ahead, patients can create their own username and login based on their needs.
+- Ethical considerations in regard to legal and social-related data integration problems as manipulating biometric data is very sensitive and personal.
+- Because of privacy related concerns, we did not have much data to work with. Currently all source of data are randomly generated.
+- Next step: incorporating more functionalities to the medical dashboard such as journal entry, predictive analytics and real-time health alerts.
+- Getting more feedback from patients/users will help us determine what features are helpful.
+
+
+## Conclusion
+- The multiple sources of data are able to be consolidated into a single dashboard in a static manner.
+- We were able to create a personalized, interactive, and explanatory dashboard for a single user with login functionality.
+- Health data for patients can be visualized with the flexibility to select specific dates.
+
+
+
 
 
